@@ -4,10 +4,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/asticode/go-astilectron"
-	"github.com/asticode/go-astilectron-bundler"
-	"github.com/asticode/go-astilog"
 	"github.com/pkg/errors"
+	"github.com/tehsphinx/go-astilectron"
+	"github.com/tehsphinx/go-astilectron-bundler"
+	"github.com/tehsphinx/go-astilog"
 )
 
 // Run runs the bootstrap
